@@ -1,0 +1,6 @@
+/target
+Cargo.lock
+/data_*.txt
+/*.wasm
+/wasm_tools
+/src/autogen.rs
